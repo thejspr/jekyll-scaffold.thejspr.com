@@ -3,14 +3,16 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
-    <title>My Site</title>
+    <title>{{ page.title | 'TODO: Set page title' }}</title>
     <meta name='description' content=''>
     <meta name='viewport' content='width=device-width'>
     <link rel='shortcut icon' href='favicon.png'>
     {% stylesheet application %}
   </head>
   <body>
-    {{ content }}
+    <div class="container">
+      {{ content }}
+    </div>
 
     <script>
       var _gaq=[['_setAccount','UA-XXXXXXX-X'],['_trackPageview']];
