@@ -11,6 +11,7 @@
  *
  * Date: 2013-07-03T13:30Z
  */
+
 (function( window, undefined ) {
 
 // Can't do this because several apps including ASP.NET trace
@@ -8827,3 +8828,13 @@ if ( typeof window === "object" && typeof window.document === "object" ) {
 }
 
 })( window );
+(function() {
+  $(document).ready(function() {
+    return console.log('My site is built with CoffeeScript');
+  });
+
+}).call(this);
+(function() {
+
+
+}).call(this);
