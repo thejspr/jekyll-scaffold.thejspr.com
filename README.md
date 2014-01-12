@@ -1,8 +1,8 @@
 # Jekyll static site scaffold with Sass and CoffeeScript
 
 This repos contains a light-weight setup I use for building static sites. It is
-built upon the wonderful (Jekyll)[http://jekyllrb.com/] and supports
-(Sass)[http://sass-lang.com/] and (CoffeeScript)[http://coffeescript.org/].
+built upon the wonderful [Jekyll](http://jekyllrb.com/) and supports
+[Sass](http://sass-lang.com/) and [CoffeeScript](http://coffeescript.org/).
 
 ## Installation
 
