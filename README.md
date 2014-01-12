@@ -1,4 +1,4 @@
-# Jekyll static site scaffold with Sass and CoffeeScript
+# Jekyll scaffold with Sass and CoffeeScript
 
 This repos contains a light-weight setup I use for building static sites. It is
 built upon the wonderful [Jekyll](http://jekyllrb.com/) and supports
@@ -6,7 +6,7 @@ built upon the wonderful [Jekyll](http://jekyllrb.com/) and supports
 
 ## Installation
 
-To get started, clone this repo, install Ruby 2.1 and run `bundle install`.
+To get started, clone this repo, install Ruby and run `bundle install`.
 
 ## Development and site building
 
