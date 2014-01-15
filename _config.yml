@@ -2,3 +2,4 @@ name: My Site
 markdown: redcarpet
 pygments: true
 exclude: ['bin', 'parser']
+gems: ['bootstrap-sass']
